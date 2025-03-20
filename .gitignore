@@ -39,7 +39,6 @@ application.properties
 application.yml
 application-*.properties
 application-*.yml
-/src/main/resources/application.properties
 
 # Spring Boot devtools
 spring-boot-devtools.properties
